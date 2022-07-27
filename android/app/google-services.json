@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "397918424492",
+    "project_id": "firestoredebounce",
+    "storage_bucket": "firestoredebounce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397918424492:android:aa87582cb502ac6ed9be09",
+        "android_client_info": {
+          "package_name": "com.firestoredebounce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397918424492-ch2fd1qu5jurjlo573o4c9uld9qm8soe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firestoredebounce",
+            "certificate_hash": "7703185e6bc9deae14b26b97a18bd551d6d06122"
+          }
+        },
+        {
+          "client_id": "397918424492-fdn1hd0dlvbvpvrf9krfgt79tk9cd0jp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firestoredebounce",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "397918424492-00tanl6j7cmn8ra796r2teqahd21mu18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPMUU2z-QmvmRjAVKq1m01wDg4lJTvZ-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397918424492-00tanl6j7cmn8ra796r2teqahd21mu18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
